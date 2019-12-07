@@ -1,0 +1,4 @@
+[submodule "mimihotter/public"]
+	path = mimihotter/public
+	url = https://github.com/Miriamhotter/miriamhotter.github.io.git
+	branch = master
